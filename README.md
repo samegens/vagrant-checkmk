@@ -19,8 +19,7 @@ Pay attention to the password that appears when the server is provisioned.
 5. Click 'Fix all missing'.
 6. Click '2 changes'.
 7. Click 'Activate affected.'
-8. Do the same (2-7) for 192.168.33.10.
-Now both the server and the host are monitored by Checkmk.
+Now the host is monitored by Checkmk.
 
 # Clean up
 
